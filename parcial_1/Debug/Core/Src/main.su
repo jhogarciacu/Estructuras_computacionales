@@ -1,0 +1,8 @@
+../Core/Src/main.c:71:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:96:6:toggle	24	static
+../Core/Src/main.c:114:6:mensaje	16	static
+../Core/Src/main.c:126:5:main	8	static
+../Core/Src/main.c:172:6:SystemClock_Config	96	static
+../Core/Src/main.c:222:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:257:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:313:6:Error_Handler	4	static,ignoring_inline_asm
